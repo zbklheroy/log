@@ -1,8 +1,74 @@
 {
-  "hash": "cf0b7038",
+  "hash": "deaf0e0a",
   "configHash": "69fc5c53",
-  "lockfileHash": "03216910",
-  "browserHash": "a33d248f",
-  "optimized": {},
-  "chunks": {}
+  "lockfileHash": "3b6c0563",
+  "browserHash": "ddb9dfcf",
+  "optimized": {
+    "@ant-design/icons": {
+      "src": "../../node_modules/@ant-design/icons/es/index.js",
+      "file": "@ant-design_icons.js",
+      "fileHash": "d66829a3",
+      "needsInterop": false
+    },
+    "antd": {
+      "src": "../../node_modules/antd/es/index.js",
+      "file": "antd.js",
+      "fileHash": "1bd500c8",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "461e6504",
+      "needsInterop": false
+    },
+    "dayjs": {
+      "src": "../../node_modules/dayjs/dayjs.min.js",
+      "file": "dayjs.js",
+      "fileHash": "d0408dcb",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "91450715",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "235a731a",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "ecffa8b9",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "c3dbd64f",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "DownloadOutlined-DIQyC7Z8": {
+      "file": "DownloadOutlined-DIQyC7Z8.js",
+      "isDynamicEntry": false
+    },
+    "chunk-BoAXSpZd": {
+      "file": "chunk-BoAXSpZd.js",
+      "isDynamicEntry": false
+    },
+    "client-BkYvXjj3": {
+      "file": "client-BkYvXjj3.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-C2Hs_MwH": {
+      "file": "react-dom-C2Hs_MwH.js",
+      "isDynamicEntry": false
+    }
+  }
 }
